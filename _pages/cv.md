@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Experimental Physics, Swedish Institute of Space Physics, 2021 (expected)
+* Joint European Master in Space Science and Technology, Lulea University of Technology, 2017
+* B.S. in Physics, Paul Sabatier University, Toulouse, France, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Master thesis student
+  * Institute for Research in Planetology and Astrophysics (IRAP), Toulouse, France
+  * Topic: Investigation of the evolution of the signal induced by ChemCam on Mars as a function of focus. 
+  * Supervisor: Olivier Gasnault
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Intern
+  * Institute for Research in Planetology and Astrophysics (IRAP), Toulouse, France
+  * Topic: Investigation of stability in Mars Science Laboratory's ChemCam images.
+  * Supervisor: Olivier Gasnault
+
+* Summer 2014: Intern
+  * Institute for Research in Planetology and Astrophysics (IRAP), Toulouse, France
+  * Topic: Extraction of polarized signatures in stellar spectra using data from the PolarBase database.
+  * Supervisor: Frederic Paletou
   
-Skills
+Software skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C++, Lua, SIMION, IDL, MATLAB
+
+Experimental skills
+======
+* Vacuum systems, high voltage testing, cleanroom integration, prototyping, ion beamline operation
 
 Publications
 ======
@@ -54,6 +58,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Teaching and Service
+#======
+
