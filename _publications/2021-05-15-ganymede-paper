@@ -7,6 +7,5 @@ excerpt: 'In this paper I simulated the sputtering process at Ganymede to estima
 date: Submitted in April 2021
 venue: 'JGR: Space Physics'
 paperurl: 'https://doi.org/10.1002/essoar.10506799.2'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 In this paper I simulated the sputtering process at Ganymede to estimates fluxes of Energetic Neutral Atoms that the Jovian Neutrals Analyzer would observe at Ganymede. Combined with JNA's instrumental response, this will help optimize operation planning and interpret the data collected by JNA on the JUICE spacecraft.
