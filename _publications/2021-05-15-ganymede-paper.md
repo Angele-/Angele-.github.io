@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Simulations of Energetic Neutral Atom sputtering from Ganymede in preparation for the JUICE mission"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
