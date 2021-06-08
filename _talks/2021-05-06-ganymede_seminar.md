@@ -3,8 +3,8 @@ title: "Development and simulated observations of the Jovian Neutrals Analyzer f
 collection: talks
 type: "IRF seminar"
 permalink: /talks/2021-05-06-ganymede_seminar
-venue: "Online due to Covid-19"
+venue: "IRF Kiruna"
 date: 2021-05-06
-location: "Kiruna, Sweden"
+location: "Online due to Covid-19"
 ---
 As IRF tradition dictates, I gave a seminar about my PhD project six months before my expected defense. 
