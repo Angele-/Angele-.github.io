@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Experimental Physics, Swedish Institute of Space Physics, 2021 (expected)
-* Joint European Master in Space Science and Technology (SpaceMaster), Lule&aring University of Technology, 2017
+* Joint European Master in Space Science and Technology (SpaceMaster), Lule&aring; University of Technology, 2017
 * B.S. in Physics, Universit&eacute; Paul Sabatier, Toulouse, France, 2015
 
 Work experience
